@@ -1,0 +1,35 @@
+.logo {
+  max-width: 200px;
+}
+
+h1 {
+  color: #d20a0a;
+  font-weight: bold;
+}
+
+.main-container {
+  padding-top: 20px;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.activity-square {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ddd;
+  background-color: white;
+}
+
+.activity-square.active {
+  background-color: green;
+}
